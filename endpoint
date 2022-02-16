@@ -1,0 +1,5 @@
+http://localhost:3000/magazyn
+http://localhost:3000/kosz
+http://localhost:3000/znicze/{id}
+http://localhost:3000/wiazanki/{id}
+http://localhost:3000/poslaniec/{id}
